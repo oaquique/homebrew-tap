@@ -1,9 +1,9 @@
 class Macrobo < Formula
   desc "Fast, multi-threaded file replication tool for macOS"
   homepage "https://github.com/oaquique/macrobo"
-  url "https://github.com/oaquique/macrobo/releases/download/v1.0.25/macrobo-1.0.25-universal.tar.gz"
-  sha256 "ba85d4691eceed507d9806a0d7ce1dece7fa160d41e1e700d8f22a9cfb7aaa8d"
-  version "1.0.25"
+  url "https://github.com/oaquique/macrobo/releases/download/v1.0.26/macrobo-1.0.26-universal.tar.gz"
+  sha256 "5b223612bafba6f0391a11f7ccfea10026c37f9aeea6cbd18dcabc6fbc2c86cd"
+  version "1.0.26"
   license "MIT"
 
   depends_on :macos
